@@ -1,8 +1,9 @@
 # 13JAN--Assigment-
-ASSIGMENT second programm 
+#ASSIGMENT second programm 
 
 
-class tri{
+class tri{ 
+
      String ss;
     String name ;
     public tri(String ss)
